@@ -21,3 +21,4 @@ class Dinner{
         this._dessert=dessert;
   }
 }
+let a=new Dinner("s","s","s","s","s")
