@@ -18,7 +18,7 @@ class Dinner{
         this.soup=soup;
         this.drink=drink;
         this.entree=entree;
-        this._dessert=dessert;
+        this.dessert=dessert;
   }
 }
 let a=new Dinner("s","s","s","s","s")
