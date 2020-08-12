@@ -20,3 +20,4 @@ class Dinner{
         this.dessert=dessert;
   }
 }
+let a=new Dinner("s","s","s","s","s")
